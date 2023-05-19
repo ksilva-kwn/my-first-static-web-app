@@ -1,5 +1,5 @@
 {
-  "name": "vanilla-basic",
+  "name": "macaco-telefonista",
   "version": "1.0.0",
   "scripts": { 
     "start": "sirv ./src public --cors --single --no-clear --port 8000"
